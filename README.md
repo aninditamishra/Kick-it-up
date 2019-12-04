@@ -14,3 +14,6 @@ Through group discussion and previous literature review, we have determined that
 * Determine if there is a specific time of year when projects can be launched where they are more likely to be funded (need to define seasonally and quarterly somewhere). 
 * Find out whether projects with "small" goal amounts are more likely to be successful as compared to projects with "large" goal amounts. (need to define "small" relative to our dataset somewhere; maybe in the dataset section above)
 * See if duration impacts whether a project will be successful or not as compared to other duration lengths. 
+## To run the code
+All the csv files required to run the code are in the following
+[Google drive - csvs](https://drive.google.com/file/d/1PG1ZG7ye1I1Q20npMgH-UQP4PccTQ_w6/view?usp=sharing) link. The files extracted should be in the same folder as that of the code
