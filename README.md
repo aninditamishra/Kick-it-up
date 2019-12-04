@@ -1,6 +1,9 @@
 # Kick-it-up
 CSCE 676: Data Mining and Analysis Project Repo
 
+# Project Website
+https://sites.google.com/view/kickitup/home
+
 ## Introduction
 In a world filled with brilliant entrepreneurs eager to make their ideas a reality, finding the funding necessary for such initiatives can be a challenging endeavour. Crowd-funding websites such as Kickstarter provide a way for savvy entrepreneurs to leverage the collective resources of the crowd to obtain the necessary capital to get their projects started. Kickstarter's core function is to act as a global crowd-funding platform where users (also known as backers) are offered tangible rewards or experiences in exchange for pledges of monetary support. While Kickstarter publishes many articles outlining best-practices for project creation, large scale analysis has shown that approximately half of all campaigns still fail.
 
